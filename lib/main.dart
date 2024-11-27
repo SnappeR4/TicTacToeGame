@@ -366,6 +366,7 @@ class _TicTacToeGameState extends State<TicTacToeGame> {
                     ),
                   ],
                 ),
+                const SizedBox(height: 20.0),
               ],
             ),
           ),
